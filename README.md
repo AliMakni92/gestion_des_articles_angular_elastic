@@ -1,4 +1,4 @@
-<h1>Facets de recherche angular et symfony</h1>
+<h1>Facets de recherche angular</h1>
 Version numéro 1:
 
 <img src="https://i.imgur.com/NB1rgpm.png"/>
